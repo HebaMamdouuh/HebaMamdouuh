@@ -10,6 +10,4 @@ I'm a Communication & Electronics Engineering graduate from Helwan University wi
 🧠 Exploring machine learning, with a focus on algorithms like Random Forest
 
 🛠️ Trained at ITI and Electronics Research Institute in embedded systems and microstrip antenna design
-HebaMamdouuh/HebaMamdouuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
